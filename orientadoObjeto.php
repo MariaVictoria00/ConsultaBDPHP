@@ -15,7 +15,6 @@ if ($mysqli->connect_errno) {
 // seleciona a base de dados em que vamos trabalhar
 $query = "SELECT * FROM noticias";
 
-
 if ($result = $mysqli->query($query)) {
   
 // busca matriz associativa 

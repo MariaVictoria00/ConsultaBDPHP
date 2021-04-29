@@ -22,4 +22,5 @@ if ($result = mysqli_query($link, $query)) {
     //mostrar resultados
     mysqli_free_result($result);
 }
+
 ?>
