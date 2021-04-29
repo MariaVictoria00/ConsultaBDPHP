@@ -26,7 +26,7 @@ Faça o clone desse repositório e mude as  credenciais(rede, user, password e n
 
 # Comando de execução: 
 
-- No diretorio do projeto, abra o terminal e digite: "hp -f index.php", para estar executando a versão procidimental ou digite "hp -f orientadoObjeto.php",
+- No diretorio do projeto, abra o terminal e digite: "hp -f index.php", para estar executando a versão procedimental ou digite "hp -f orientadoObjeto.php",
 para executar a versão orientada a objeto; 
 
 
