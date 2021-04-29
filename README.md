@@ -20,8 +20,9 @@
  
 # Configurações do bd:
 
-Faça o clone desse repositório e mude credenciais(rede, user, password e nome do bd) do bd deste codigo para suas credencias locais:
-$link = mysqli_connect("localhost", "root", "liam02", "Noticias");
+Faça o clone desse repositório e mude as  credenciais(rede, user, password e nome do bd) do bd deste codigo para suas credencias locais:
+
+- $link = mysqli_connect("localhost", "root", "liam02", "Noticias");
 
 # Comando de execução: 
 
